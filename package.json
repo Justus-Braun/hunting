@@ -44,6 +44,7 @@
   "dependencies": {
     "@jgoz/esbuild-plugin-typecheck": "^4.0.1",
     "@nativewrappers/fivem": "latest",
+    "@overextended/ox_core": "^1.2.0",
     "@overextended/ox_lib": "latest",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"

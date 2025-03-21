@@ -1,3 +1,21 @@
 {
-  "EnableNuiCommand": true
+  "Missions": [
+    {
+      "Name": "Dear Hunting",
+      "Description": "Kill 1 deer",
+      "Reward": 100,
+      "Type": "Kill",
+      "Target": "Deer",
+      "Amount": 1,
+      "Vehilce": "karamtio"
+    },
+    {
+      "Name": "Get One Dear",
+      "Description": "Get 1 deer",
+      "Reward": 100,
+      "Type": "Get",
+      "Target": "Deer",
+      "Amount": 1
+    }
+  ]
 }
